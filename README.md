@@ -28,8 +28,8 @@ In the terminal: nano conky -startup.sh
 
 For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
 Conky project [Homepage](https://github.com/brndnmtthws/conky/wiki)      
-
-----     
-
-<img src="OrangeP.png" alt="Screenshot_orange" width="600">     
+      
+----          
+     
+<img src="SW_Blue.png" alt="Screenshot_Universe_conky" width="600">      
 
